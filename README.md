@@ -2,5 +2,5 @@
 
 ## AlexNet
 
-Implementation of the original AlexNet propsoed on ImageNet Classification with Deep Convolutional Neural Networks by Krizhevsky et el. I had to use a smaller dataset called CIFAR10 because I didn't have access to a GPU.
+Implementation of the original AlexNet proposed on ImageNet Classification with Deep Convolutional Neural Networks by Krizhevsky et el. I had to use a smaller dataset called CIFAR10 because I didn't have access to a GPU.
 
